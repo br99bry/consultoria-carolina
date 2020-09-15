@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/consultoria-carolina/static/css/main.d697c2a6.chunk.css",
-    "main.js": "/consultoria-carolina/static/js/main.d13e439e.chunk.js",
-    "main.js.map": "/consultoria-carolina/static/js/main.d13e439e.chunk.js.map",
+    "main.js": "/consultoria-carolina/static/js/main.2d9095f1.chunk.js",
+    "main.js.map": "/consultoria-carolina/static/js/main.2d9095f1.chunk.js.map",
     "runtime-main.js": "/consultoria-carolina/static/js/runtime-main.3bf9b427.js",
     "runtime-main.js.map": "/consultoria-carolina/static/js/runtime-main.3bf9b427.js.map",
-    "static/js/2.58fdf1ed.chunk.js": "/consultoria-carolina/static/js/2.58fdf1ed.chunk.js",
-    "static/js/2.58fdf1ed.chunk.js.map": "/consultoria-carolina/static/js/2.58fdf1ed.chunk.js.map",
+    "static/js/2.97fe44ed.chunk.js": "/consultoria-carolina/static/js/2.97fe44ed.chunk.js",
+    "static/js/2.97fe44ed.chunk.js.map": "/consultoria-carolina/static/js/2.97fe44ed.chunk.js.map",
     "index.html": "/consultoria-carolina/index.html",
-    "precache-manifest.6c7bb16454d5df0d9acd53579e0d3162.js": "/consultoria-carolina/precache-manifest.6c7bb16454d5df0d9acd53579e0d3162.js",
+    "precache-manifest.eae38cc4d98abda27425ec89420d0104.js": "/consultoria-carolina/precache-manifest.eae38cc4d98abda27425ec89420d0104.js",
     "service-worker.js": "/consultoria-carolina/service-worker.js",
     "static/css/main.d697c2a6.chunk.css.map": "/consultoria-carolina/static/css/main.d697c2a6.chunk.css.map",
-    "static/js/2.58fdf1ed.chunk.js.LICENSE.txt": "/consultoria-carolina/static/js/2.58fdf1ed.chunk.js.LICENSE.txt",
+    "static/js/2.97fe44ed.chunk.js.LICENSE.txt": "/consultoria-carolina/static/js/2.97fe44ed.chunk.js.LICENSE.txt",
     "static/media/ESIJ.png": "/consultoria-carolina/static/media/ESIJ.ebb3ce98.png",
     "static/media/Logo.png": "/consultoria-carolina/static/media/Logo.20eb8db3.png",
     "static/media/adressImg.png": "/consultoria-carolina/static/media/adressImg.8131796f.png",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3bf9b427.js",
-    "static/js/2.58fdf1ed.chunk.js",
+    "static/js/2.97fe44ed.chunk.js",
     "static/css/main.d697c2a6.chunk.css",
-    "static/js/main.d13e439e.chunk.js"
+    "static/js/main.2d9095f1.chunk.js"
   ]
 }
