@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/consultoria-carolina/static/css/main.19b29582.chunk.css",
+    "main.css": "/consultoria-carolina/static/css/main.6203ad10.chunk.css",
     "main.js": "/consultoria-carolina/static/js/main.fe32d0a6.chunk.js",
     "main.js.map": "/consultoria-carolina/static/js/main.fe32d0a6.chunk.js.map",
     "runtime-main.js": "/consultoria-carolina/static/js/runtime-main.3bf9b427.js",
@@ -8,9 +8,9 @@
     "static/js/2.5e2fed74.chunk.js": "/consultoria-carolina/static/js/2.5e2fed74.chunk.js",
     "static/js/2.5e2fed74.chunk.js.map": "/consultoria-carolina/static/js/2.5e2fed74.chunk.js.map",
     "index.html": "/consultoria-carolina/index.html",
-    "precache-manifest.74186f4c85e2befc4d6915ad3b142e2d.js": "/consultoria-carolina/precache-manifest.74186f4c85e2befc4d6915ad3b142e2d.js",
+    "precache-manifest.ae42fbe45e115e6af4dcdeb28aee8477.js": "/consultoria-carolina/precache-manifest.ae42fbe45e115e6af4dcdeb28aee8477.js",
     "service-worker.js": "/consultoria-carolina/service-worker.js",
-    "static/css/main.19b29582.chunk.css.map": "/consultoria-carolina/static/css/main.19b29582.chunk.css.map",
+    "static/css/main.6203ad10.chunk.css.map": "/consultoria-carolina/static/css/main.6203ad10.chunk.css.map",
     "static/js/2.5e2fed74.chunk.js.LICENSE.txt": "/consultoria-carolina/static/js/2.5e2fed74.chunk.js.LICENSE.txt",
     "static/media/ESIJ.png": "/consultoria-carolina/static/media/ESIJ.ebb3ce98.png",
     "static/media/Logo.png": "/consultoria-carolina/static/media/Logo.20eb8db3.png",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.3bf9b427.js",
     "static/js/2.5e2fed74.chunk.js",
-    "static/css/main.19b29582.chunk.css",
+    "static/css/main.6203ad10.chunk.css",
     "static/js/main.fe32d0a6.chunk.js"
   ]
 }
