@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab377636c13998fc1796c3376a775a22",
+    "revision": "504c1987b7f23d508aa71fb0199e603d",
     "url": "/consultoria-carolina/index.html"
   },
   {
-    "revision": "26477382499bcdade82a",
-    "url": "/consultoria-carolina/static/css/main.0bced390.chunk.css"
+    "revision": "0e81262e129f3299ffa2",
+    "url": "/consultoria-carolina/static/css/main.a20c8afb.chunk.css"
   },
   {
-    "revision": "302d8c73d156b350884e",
-    "url": "/consultoria-carolina/static/js/2.33ac681a.chunk.js"
+    "revision": "54df3ed8580801f9fb5f",
+    "url": "/consultoria-carolina/static/js/2.64cdd03d.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/consultoria-carolina/static/js/2.33ac681a.chunk.js.LICENSE.txt"
+    "url": "/consultoria-carolina/static/js/2.64cdd03d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "26477382499bcdade82a",
-    "url": "/consultoria-carolina/static/js/main.78e93d96.chunk.js"
+    "revision": "0e81262e129f3299ffa2",
+    "url": "/consultoria-carolina/static/js/main.f73607c1.chunk.js"
   },
   {
     "revision": "d224e300cb62790e9a84",
@@ -74,5 +74,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "898eab9dbbdf4aab9209559b7254874f",
     "url": "/consultoria-carolina/static/media/up.898eab9d.png"
+  },
+  {
+    "revision": "cd01f0f93aebf7dde9af1cfa6dd8e86e",
+    "url": "/consultoria-carolina/static/media/writeAbout.cd01f0f9.png"
   }
 ]);
