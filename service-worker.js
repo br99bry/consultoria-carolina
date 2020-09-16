@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/consultoria-carolina/precache-manifest.6276ecdd513995264b5e0d8c1f178e39.js"
+  "/consultoria-carolina/precache-manifest.35afdf6a47a6f24751b8d1b5dc799fe6.js"
 );
 
 self.addEventListener('message', (event) => {
