@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/consultoria-carolina/static/css/main.a20c8afb.chunk.css",
-    "main.js": "/consultoria-carolina/static/js/main.f73607c1.chunk.js",
-    "main.js.map": "/consultoria-carolina/static/js/main.f73607c1.chunk.js.map",
+    "main.css": "/consultoria-carolina/static/css/main.22ad374b.chunk.css",
+    "main.js": "/consultoria-carolina/static/js/main.b9c4f586.chunk.js",
+    "main.js.map": "/consultoria-carolina/static/js/main.b9c4f586.chunk.js.map",
     "runtime-main.js": "/consultoria-carolina/static/js/runtime-main.3bf9b427.js",
     "runtime-main.js.map": "/consultoria-carolina/static/js/runtime-main.3bf9b427.js.map",
-    "static/js/2.64cdd03d.chunk.js": "/consultoria-carolina/static/js/2.64cdd03d.chunk.js",
-    "static/js/2.64cdd03d.chunk.js.map": "/consultoria-carolina/static/js/2.64cdd03d.chunk.js.map",
+    "static/js/2.f9078484.chunk.js": "/consultoria-carolina/static/js/2.f9078484.chunk.js",
+    "static/js/2.f9078484.chunk.js.map": "/consultoria-carolina/static/js/2.f9078484.chunk.js.map",
     "index.html": "/consultoria-carolina/index.html",
-    "precache-manifest.43bf91badf58547365c167bb51f79c9c.js": "/consultoria-carolina/precache-manifest.43bf91badf58547365c167bb51f79c9c.js",
+    "precache-manifest.4a8f0b55bc10b74c91bc60ea5653858a.js": "/consultoria-carolina/precache-manifest.4a8f0b55bc10b74c91bc60ea5653858a.js",
     "service-worker.js": "/consultoria-carolina/service-worker.js",
-    "static/css/main.a20c8afb.chunk.css.map": "/consultoria-carolina/static/css/main.a20c8afb.chunk.css.map",
-    "static/js/2.64cdd03d.chunk.js.LICENSE.txt": "/consultoria-carolina/static/js/2.64cdd03d.chunk.js.LICENSE.txt",
+    "static/css/main.22ad374b.chunk.css.map": "/consultoria-carolina/static/css/main.22ad374b.chunk.css.map",
+    "static/js/2.f9078484.chunk.js.LICENSE.txt": "/consultoria-carolina/static/js/2.f9078484.chunk.js.LICENSE.txt",
     "static/media/ESIJ.png": "/consultoria-carolina/static/media/ESIJ.ebb3ce98.png",
     "static/media/Logo.png": "/consultoria-carolina/static/media/Logo.20eb8db3.png",
+    "static/media/aboutImg.png": "/consultoria-carolina/static/media/aboutImg.a1ace82a.png",
     "static/media/adressImg.png": "/consultoria-carolina/static/media/adressImg.8131796f.png",
     "static/media/caroCircle.png": "/consultoria-carolina/static/media/caroCircle.77b043ed.png",
     "static/media/carolina.png": "/consultoria-carolina/static/media/carolina.6d954a66.png",
@@ -29,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3bf9b427.js",
-    "static/js/2.64cdd03d.chunk.js",
-    "static/css/main.a20c8afb.chunk.css",
-    "static/js/main.f73607c1.chunk.js"
+    "static/js/2.f9078484.chunk.js",
+    "static/css/main.22ad374b.chunk.css",
+    "static/js/main.b9c4f586.chunk.js"
   ]
 }
