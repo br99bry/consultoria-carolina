@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/consultoria-carolina/static/css/main.91a315c7.chunk.css",
-    "main.js": "/consultoria-carolina/static/js/main.535dc38e.chunk.js",
-    "main.js.map": "/consultoria-carolina/static/js/main.535dc38e.chunk.js.map",
+    "main.css": "/consultoria-carolina/static/css/main.d2a189fc.chunk.css",
+    "main.js": "/consultoria-carolina/static/js/main.bcaf745f.chunk.js",
+    "main.js.map": "/consultoria-carolina/static/js/main.bcaf745f.chunk.js.map",
     "runtime-main.js": "/consultoria-carolina/static/js/runtime-main.3bf9b427.js",
     "runtime-main.js.map": "/consultoria-carolina/static/js/runtime-main.3bf9b427.js.map",
     "static/js/2.abe199a4.chunk.js": "/consultoria-carolina/static/js/2.abe199a4.chunk.js",
     "static/js/2.abe199a4.chunk.js.map": "/consultoria-carolina/static/js/2.abe199a4.chunk.js.map",
     "index.html": "/consultoria-carolina/index.html",
-    "precache-manifest.73fab6bed1f18613d41f349f6d43694f.js": "/consultoria-carolina/precache-manifest.73fab6bed1f18613d41f349f6d43694f.js",
+    "precache-manifest.84e21b9e9de26f47f0ddfb75f5d85698.js": "/consultoria-carolina/precache-manifest.84e21b9e9de26f47f0ddfb75f5d85698.js",
     "service-worker.js": "/consultoria-carolina/service-worker.js",
-    "static/css/main.91a315c7.chunk.css.map": "/consultoria-carolina/static/css/main.91a315c7.chunk.css.map",
+    "static/css/main.d2a189fc.chunk.css.map": "/consultoria-carolina/static/css/main.d2a189fc.chunk.css.map",
     "static/js/2.abe199a4.chunk.js.LICENSE.txt": "/consultoria-carolina/static/js/2.abe199a4.chunk.js.LICENSE.txt",
     "static/media/ESIJ.png": "/consultoria-carolina/static/media/ESIJ.ebb3ce98.png",
     "static/media/Logo.png": "/consultoria-carolina/static/media/Logo.20eb8db3.png",
@@ -32,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.3bf9b427.js",
     "static/js/2.abe199a4.chunk.js",
-    "static/css/main.91a315c7.chunk.css",
-    "static/js/main.535dc38e.chunk.js"
+    "static/css/main.d2a189fc.chunk.css",
+    "static/js/main.bcaf745f.chunk.js"
   ]
 }
