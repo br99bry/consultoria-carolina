@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/consultoria-carolina/static/css/main.ea12f5b3.chunk.css",
-    "main.js": "/consultoria-carolina/static/js/main.f51177cb.chunk.js",
-    "main.js.map": "/consultoria-carolina/static/js/main.f51177cb.chunk.js.map",
+    "main.css": "/consultoria-carolina/static/css/main.7d6a27bf.chunk.css",
+    "main.js": "/consultoria-carolina/static/js/main.261dfd04.chunk.js",
+    "main.js.map": "/consultoria-carolina/static/js/main.261dfd04.chunk.js.map",
     "runtime-main.js": "/consultoria-carolina/static/js/runtime-main.3bf9b427.js",
     "runtime-main.js.map": "/consultoria-carolina/static/js/runtime-main.3bf9b427.js.map",
     "static/js/2.b537c4e7.chunk.js": "/consultoria-carolina/static/js/2.b537c4e7.chunk.js",
     "static/js/2.b537c4e7.chunk.js.map": "/consultoria-carolina/static/js/2.b537c4e7.chunk.js.map",
     "index.html": "/consultoria-carolina/index.html",
-    "precache-manifest.1c15f8f9fde75ba18f3464da8c19678e.js": "/consultoria-carolina/precache-manifest.1c15f8f9fde75ba18f3464da8c19678e.js",
+    "precache-manifest.5984ff74c5ca80eff9f6fa68e66dc076.js": "/consultoria-carolina/precache-manifest.5984ff74c5ca80eff9f6fa68e66dc076.js",
     "service-worker.js": "/consultoria-carolina/service-worker.js",
-    "static/css/main.ea12f5b3.chunk.css.map": "/consultoria-carolina/static/css/main.ea12f5b3.chunk.css.map",
+    "static/css/main.7d6a27bf.chunk.css.map": "/consultoria-carolina/static/css/main.7d6a27bf.chunk.css.map",
     "static/js/2.b537c4e7.chunk.js.LICENSE.txt": "/consultoria-carolina/static/js/2.b537c4e7.chunk.js.LICENSE.txt",
     "static/media/ESIJ.png": "/consultoria-carolina/static/media/ESIJ.ebb3ce98.png",
     "static/media/Logo.png": "/consultoria-carolina/static/media/Logo.20eb8db3.png",
@@ -39,7 +39,7 @@
   "entrypoints": [
     "static/js/runtime-main.3bf9b427.js",
     "static/js/2.b537c4e7.chunk.js",
-    "static/css/main.ea12f5b3.chunk.css",
-    "static/js/main.f51177cb.chunk.js"
+    "static/css/main.7d6a27bf.chunk.css",
+    "static/js/main.261dfd04.chunk.js"
   ]
 }
